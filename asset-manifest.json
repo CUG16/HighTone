@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HighTone/static/css/main.f855e6bc.css",
+    "main.js": "/HighTone/static/js/main.390b3fc5.js",
+    "static/js/453.2adfe1a9.chunk.js": "/HighTone/static/js/453.2adfe1a9.chunk.js",
+    "static/media/logo.svg": "/HighTone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HighTone/index.html",
+    "main.f855e6bc.css.map": "/HighTone/static/css/main.f855e6bc.css.map",
+    "main.390b3fc5.js.map": "/HighTone/static/js/main.390b3fc5.js.map",
+    "453.2adfe1a9.chunk.js.map": "/HighTone/static/js/453.2adfe1a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.390b3fc5.js"
+  ]
+}
